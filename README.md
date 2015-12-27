@@ -1,2 +1,2 @@
 # SHMultilevelTable
-使用SHMultiLeveTable 可以让你非常容易的实现cell的分级展开，并且可以根据的数据模型自由控制展开的层数，分层从未如此简单。
+使用SHMultiLeveTable 可以让你非常容易的实现cell的分层展开，并且不限展开层数，你可以根据数据模型自由控制展开的层数，分层从未如此简单。
