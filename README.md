@@ -1,7 +1,9 @@
 # SHMultilevelTable
+
+
 使用SHMultiLeveTable 可以让你非常容易的实现cell的分层展开，并且不限展开层数，你可以根据数据模型自由控制展开的层数，分层从未如此简单。
-这里是简单的演示
-![pic1](https://github.com/cshai/SHMultilevelTable/blob/master/other/pic1.gif)
+
+
 //使用方法
 将文件夹SHMultiLevelTable下面6个文件拷贝到你的工程
 SHMultilevelNodePath.hSHMultilevelNodePath.mSHMultilevelTableView.hSHMultilevelTableView.mSHMultilevelTableViewController.hSHMultilevelTableViewController.m
@@ -14,5 +16,10 @@ SHMultilevelNodePath.hSHMultilevelNodePath.mSHMultilevelTableView.hSHMultilev
 如果你的项目中使用UITableViewController，具体实现方法可以参考SHTestFourViewController示例
 1 将SHMultilevelTableViewController作为你的tableViewcontroller的父类。
 3 在tableViewcontroller中实现SHMutilevelTableViewControllerDelegate协议。
+
+//下面是简单的演示
+
+![pic1](https://github.com/cshai/SHMultilevelTable/blob/master/other/pic1.gif)
+
 
 
