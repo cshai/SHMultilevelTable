@@ -12,16 +12,16 @@
     SHMultilevelTableViewController.m
 
 ### SHMultilevelTableView使用方法
-如果你的项目中使用UITableView，具体实现方法可以参考SHTestOneView，SHTestTwoView，SHTestThreeView 这三个示例
+    如果你的项目中使用UITableView，具体实现方法可以参考SHTestOneView，SHTestTwoView，SHTestThreeView 这三个示例
 <br>
-    第1步 将SHMultilevelTableView作为你的tableView的父类。
+第1步 将SHMultilevelTableView作为你的tableView的父类。
     第2步 在你的控制器中实现SHMutilevelTableViewDelegate协议。
     第3步 实现SHMutilevelTableViewDelegate协议。
 
 ### SHMultilevelTableViewController使用方法
 如果你的项目中使用UITableViewController，具体实现方法可以参考SHTestFourViewController示例
 <br>
-    1 将SHMultilevelTableViewController作为你的tableViewcontroller的父类。
+1 将SHMultilevelTableViewController作为你的tableViewcontroller的父类。
     2 在tableViewcontroller中实现SHMutilevelTableViewControllerDelegate协议。
 <br>
 ## 下面是简单的演示
