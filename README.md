@@ -14,7 +14,7 @@ SHMultilevelNodePath.h
 ### SHMultilevelTableView使用方法
 如果你的项目中使用UITableView，具体实现方法可以参考SHTestOneView，SHTestTwoView，SHTestThreeView 这三个示例
 <br>
-第1步 将SHMultilevelTableView作为你的tableView的父类。
+        第1步 将SHMultilevelTableView作为你的tableView的父类。
         第2步 在你的控制器中实现SHMutilevelTableViewDelegate协议。
         第3步 实现SHMutilevelTableViewDelegate协议。
 
